@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cUWtjaTOJrMSh9buwzOY0kB8tUR6UO278jXJBnd17a6eq7i1CKHwip7B9IcPHeqoC5MQiEPUifHQwV9+vNh7BA==",
+  "success": true,
+  "projectFilePath": "/Users/admin/Robert_Jackson_ScrumExam/MorseCode/MorseCode.csproj",
+  "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/admin/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
