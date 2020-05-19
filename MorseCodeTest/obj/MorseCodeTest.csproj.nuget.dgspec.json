@@ -1,25 +1,103 @@
 {
   "format": 1,
   "restore": {
-    "/Users/admin/Robert_Jackson_ScrumExam/MorseCodeTest/MorseCodeTest.csproj": {}
+    "C:\\Users\\Jackson Cuevas\\Source\\Repos\\Robert_Jackson_ScrumTest\\MorseCodeTest\\MorseCodeTest.csproj": {}
   },
   "projects": {
-    "/Users/admin/Robert_Jackson_ScrumExam/MorseCode/MorseCode.csproj": {
+    "C:\\Users\\Jackson Cuevas\\Source\\Repos\\Robert_Jackson_ScrumTest\\MorseCodeTest\\MorseCodeTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/admin/Robert_Jackson_ScrumExam/MorseCode/MorseCode.csproj",
-        "projectName": "MorseCode",
-        "projectPath": "/Users/admin/Robert_Jackson_ScrumExam/MorseCode/MorseCode.csproj",
-        "packagesPath": "/Users/admin/.nuget/packages/",
-        "outputPath": "/Users/admin/Robert_Jackson_ScrumExam/MorseCode/obj/",
+        "projectUniqueName": "C:\\Users\\Jackson Cuevas\\Source\\Repos\\Robert_Jackson_ScrumTest\\MorseCodeTest\\MorseCodeTest.csproj",
+        "projectName": "MorseCodeTest",
+        "projectPath": "C:\\Users\\Jackson Cuevas\\Source\\Repos\\Robert_Jackson_ScrumTest\\MorseCodeTest\\MorseCodeTest.csproj",
+        "packagesPath": "C:\\Users\\Jackson Cuevas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jackson Cuevas\\Source\\Repos\\Robert_Jackson_ScrumTest\\MorseCodeTest\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/admin/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Jackson Cuevas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Jackson Cuevas\\Source\\Repos\\Robert_Jackson_ScrumTest\\MorseCode\\MorseCode.csproj": {
+                "projectPath": "C:\\Users\\Jackson Cuevas\\Source\\Repos\\Robert_Jackson_ScrumTest\\MorseCode\\MorseCode.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jackson Cuevas\\Source\\Repos\\Robert_Jackson_ScrumTest\\MorseCode\\MorseCode.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jackson Cuevas\\Source\\Repos\\Robert_Jackson_ScrumTest\\MorseCode\\MorseCode.csproj",
+        "projectName": "MorseCode",
+        "projectPath": "C:\\Users\\Jackson Cuevas\\Source\\Repos\\Robert_Jackson_ScrumTest\\MorseCode\\MorseCode.csproj",
+        "packagesPath": "C:\\Users\\Jackson Cuevas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jackson Cuevas\\Source\\Repos\\Robert_Jackson_ScrumTest\\MorseCode\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jackson Cuevas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,75 +131,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/Users/admin/Robert_Jackson_ScrumExam/MorseCodeTest/MorseCodeTest.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/admin/Robert_Jackson_ScrumExam/MorseCodeTest/MorseCodeTest.csproj",
-        "projectName": "MorseCodeTest",
-        "projectPath": "/Users/admin/Robert_Jackson_ScrumExam/MorseCodeTest/MorseCodeTest.csproj",
-        "packagesPath": "/Users/admin/.nuget/packages/",
-        "outputPath": "/Users/admin/Robert_Jackson_ScrumExam/MorseCodeTest/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/admin/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "projectReferences": {
-              "/Users/admin/Robert_Jackson_ScrumExam/MorseCode/MorseCode.csproj": {
-                "projectPath": "/Users/admin/Robert_Jackson_ScrumExam/MorseCode/MorseCode.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "dependencies": {
-            "Microsoft.NET.Test.Sdk": {
-              "target": "Package",
-              "version": "[16.4.0, )"
-            },
-            "NUnit3TestAdapter": {
-              "target": "Package",
-              "version": "[3.15.1, )"
-            },
-            "nunit": {
-              "target": "Package",
-              "version": "[3.12.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

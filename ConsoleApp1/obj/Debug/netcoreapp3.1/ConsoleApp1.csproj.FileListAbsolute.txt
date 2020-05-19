@@ -1,0 +1,16 @@
+C:\Users\Jackson Cuevas\Source\Repos\Robert_Jackson_ScrumTest\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Jackson Cuevas\Source\Repos\Robert_Jackson_ScrumTest\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Jackson Cuevas\Source\Repos\Robert_Jackson_ScrumTest\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Jackson Cuevas\Source\Repos\Robert_Jackson_ScrumTest\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Jackson Cuevas\Source\Repos\Robert_Jackson_ScrumTest\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Jackson Cuevas\Source\Repos\Robert_Jackson_ScrumTest\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Jackson Cuevas\Source\Repos\Robert_Jackson_ScrumTest\ConsoleApp1\bin\Debug\netcoreapp3.1\MorseCode.dll
+C:\Users\Jackson Cuevas\Source\Repos\Robert_Jackson_ScrumTest\ConsoleApp1\bin\Debug\netcoreapp3.1\MorseCode.pdb
+C:\Users\Jackson Cuevas\Source\Repos\Robert_Jackson_ScrumTest\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Jackson Cuevas\Source\Repos\Robert_Jackson_ScrumTest\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Jackson Cuevas\Source\Repos\Robert_Jackson_ScrumTest\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Jackson Cuevas\Source\Repos\Robert_Jackson_ScrumTest\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Jackson Cuevas\Source\Repos\Robert_Jackson_ScrumTest\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+C:\Users\Jackson Cuevas\Source\Repos\Robert_Jackson_ScrumTest\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Jackson Cuevas\Source\Repos\Robert_Jackson_ScrumTest\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Jackson Cuevas\Source\Repos\Robert_Jackson_ScrumTest\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
