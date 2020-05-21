@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jackson Cuevas\\Source\\Repos\\Robert_Jackson_ScrumTest\\MorseCodeTest\\MorseCodeTest.csproj": {}
+    "C:\\Users\\Jackson Cuevas\\source\\repos\\Robert_Jackson_ScrumTest\\MorseCodeTest\\MorseCodeTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jackson Cuevas\\Source\\Repos\\Robert_Jackson_ScrumTest\\MorseCodeTest\\MorseCodeTest.csproj": {
+    "C:\\Users\\Jackson Cuevas\\source\\repos\\Robert_Jackson_ScrumTest\\MorseCodeTest\\MorseCodeTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jackson Cuevas\\Source\\Repos\\Robert_Jackson_ScrumTest\\MorseCodeTest\\MorseCodeTest.csproj",
+        "projectUniqueName": "C:\\Users\\Jackson Cuevas\\source\\repos\\Robert_Jackson_ScrumTest\\MorseCodeTest\\MorseCodeTest.csproj",
         "projectName": "MorseCodeTest",
-        "projectPath": "C:\\Users\\Jackson Cuevas\\Source\\Repos\\Robert_Jackson_ScrumTest\\MorseCodeTest\\MorseCodeTest.csproj",
+        "projectPath": "C:\\Users\\Jackson Cuevas\\source\\repos\\Robert_Jackson_ScrumTest\\MorseCodeTest\\MorseCodeTest.csproj",
         "packagesPath": "C:\\Users\\Jackson Cuevas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jackson Cuevas\\Source\\Repos\\Robert_Jackson_ScrumTest\\MorseCodeTest\\obj\\",
+        "outputPath": "C:\\Users\\Jackson Cuevas\\source\\repos\\Robert_Jackson_ScrumTest\\MorseCodeTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Jackson Cuevas\\Source\\Repos\\Robert_Jackson_ScrumTest\\MorseCode\\MorseCode.csproj": {
-                "projectPath": "C:\\Users\\Jackson Cuevas\\Source\\Repos\\Robert_Jackson_ScrumTest\\MorseCode\\MorseCode.csproj"
+              "C:\\Users\\Jackson Cuevas\\source\\repos\\Robert_Jackson_ScrumTest\\MorseCode\\MorseCode.csproj": {
+                "projectPath": "C:\\Users\\Jackson Cuevas\\source\\repos\\Robert_Jackson_ScrumTest\\MorseCode\\MorseCode.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\Jackson Cuevas\\Source\\Repos\\Robert_Jackson_ScrumTest\\MorseCode\\MorseCode.csproj": {
+    "C:\\Users\\Jackson Cuevas\\source\\repos\\Robert_Jackson_ScrumTest\\MorseCode\\MorseCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jackson Cuevas\\Source\\Repos\\Robert_Jackson_ScrumTest\\MorseCode\\MorseCode.csproj",
+        "projectUniqueName": "C:\\Users\\Jackson Cuevas\\source\\repos\\Robert_Jackson_ScrumTest\\MorseCode\\MorseCode.csproj",
         "projectName": "MorseCode",
-        "projectPath": "C:\\Users\\Jackson Cuevas\\Source\\Repos\\Robert_Jackson_ScrumTest\\MorseCode\\MorseCode.csproj",
+        "projectPath": "C:\\Users\\Jackson Cuevas\\source\\repos\\Robert_Jackson_ScrumTest\\MorseCode\\MorseCode.csproj",
         "packagesPath": "C:\\Users\\Jackson Cuevas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jackson Cuevas\\Source\\Repos\\Robert_Jackson_ScrumTest\\MorseCode\\obj\\",
+        "outputPath": "C:\\Users\\Jackson Cuevas\\source\\repos\\Robert_Jackson_ScrumTest\\MorseCode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

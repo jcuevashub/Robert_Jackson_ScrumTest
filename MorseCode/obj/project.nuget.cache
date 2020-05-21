@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QRJj0wm3iQDlWWZ8DBYXwnjC/GYnCpfy20k5cEpva+2uGfGygS69kxFaKWpqgEtbSFVLvhE5WakzebMzV6fKwA==",
+  "dgSpecHash": "pdNo76F+S3zlk1S1WBJHFeXQfIC4yhSsbwA3caBav0IzbkOa43DoxK4an4/KMnGDro21SRvmk3Fo386n7hGntQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jackson Cuevas\\Source\\Repos\\Robert_Jackson_ScrumTest\\MorseCode\\MorseCode.csproj",
+  "projectFilePath": "C:\\Users\\Jackson Cuevas\\source\\repos\\Robert_Jackson_ScrumTest\\MorseCode\\MorseCode.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jackson Cuevas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Jackson Cuevas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
